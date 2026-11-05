@@ -52,7 +52,7 @@
     "skills.practice": "Практика",
     "about.kicker": "04 — Профиль",
     "about.title": "Обо мне",
-    "about.profile": "Middle front-end разработчик с коммерческим опытом с 2019 года: интернет-магазины и интерфейсы продуктов. Собираю адаптивные темы по Figma и Adobe XD на Magento 2 (Hyvä, Luma, Porto), Shopware 6, WordPress, Symfony, Laravel и Yii2 — каталог, карточка товара, корзина, чекаут, личный кабинет и письма. В работе HTML, CSS (Tailwind, LESS, Sass), JavaScript и TypeScript (React, Vue, Alpine.js, jQuery, Knockout) и PHP.",
+    "about.profile": "Middle front-end разработчик из Беларуси. С 2019 года — коммерческие проекты: интернет-магазины и продуктовые интерфейсы, около 29 позиций в CV для клиентов из Европы и США. Основной фокус — Magento 2 (Hyvä, Luma, Porto) и Shopware 6, также WordPress, Symfony, Laravel и Yii2. Адаптивные темы по Figma и Adobe XD: каталог, товар, корзина, чекаут, кабинет, контент и транзакционные письма; на витринах часто PageSpeed. Продуктовый front-end: сейчас Solidum Sverige AB — React-приложения мэтчинга, дашборд и доски этапов; ранее HRM на Laravel и сайт агентства с админкой на React. HTML, CSS (Tailwind, LESS, Sass), JavaScript и TypeScript (React, Vue, Alpine.js, jQuery, Knockout) и PHP. Git, Jira, Asana, Scrum и Kanban. Ищу роль front-end на витрину e-commerce или продуктовый интерфейс.",
     "about.how": "Как работаю",
     "about.h1": "От макета к теме: Figma и Adobe XD, адаптивная вёрстка.",
     "about.h2": "Сценарий магазина: каталог, товар, корзина, чекаут, кабинет и письма.",
